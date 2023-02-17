@@ -19,7 +19,7 @@ This is a starter project about learning the Unity Game Engine. This project is 
 
 ### Executing program
 
-* Use this link 
+* Use this link https://shor3trooper.github.io/DR_CarGameBuild/ to access the game. 
 
 ## Help
 
