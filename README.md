@@ -19,8 +19,7 @@ This is a starter project about learning the Unity Game Engine. This project is 
 
 ### Executing program
 
-* Find the DR_CarGames.exe file in your file system.
-* Double click it or right click and select open.
+* Use this link 
 
 ## Help
 
